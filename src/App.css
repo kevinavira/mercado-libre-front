@@ -1,38 +1,177 @@
-.App {
-  text-align: center;
+/* .body-principal{
+    background: red;
+    height: 10vh;
+} */
+
+body {
+  background: #EEEEEE;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.c-y {
+  background: #fff159;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.m-b {
+  margin: 0 300px;
+  height: 90px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.logo-mercado-libre {
+  margin: 8px 0;
+  height: 4.5em;
 }
 
-.App-link {
-  color: #61dafb;
+.input-search {
+  width: 95%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.center-input {
+  align-self: center;
+}
+
+.container-input-search {
+  margin: -65px 113px;
+}
+
+.button-search {
+  margin: 29px 607px;
+  height: 40%;
+}
+
+.div-image-mercado-libre {
+  text-align: end;
+  padding-right: 1%;
+}
+
+.image-search {
+  height: 38px;
+  margin-top: 1px;
+  margin-left: -106px;
+}
+
+.style-button-search {
+  border-color: transparent;
+  margin-top: -3px;
+}
+
+.results-p {
+  margin: 11px 360px 11px 275px;
+}
+
+.conten-results {
+  padding: 6px 0px;
+}
+
+.b-w {
+  background: white;
+}
+
+.p-r-p {
+  padding: 16px;
+}
+
+.image-resut-search {
+  height: 180px;
+  width: 180px;
+}
+
+.image-resut-detail {
+  height: auto;
+  width: 400px;
+}
+
+.aling-city {
+  padding-top: 6px;
+  text-align: end;
+}
+
+.separate-top {
+  padding-top: 8px;
+}
+
+.separate-price {
+  padding-top: 32px;
+}
+
+.separate-image {
+  padding-left: 16px;
+}
+
+.fz-16 {
+  font-size: 16px;
+}
+
+.fz-12 {
+  font-size: 12px;
+}
+
+.fz-24 {
+  font-size: 24px;
+}
+
+.fz-28 {
+  font-size: 28px;
+}
+
+.fz-18 {
+  font-size: 18px;
+}
+
+.fz-14 {
+  font-size: 14px;
+}
+
+.color-sold {
+  color: #666666;
+}
+
+.img-car-green {
+  margin-bottom: 7px;
+  padding-left: 5px;
+}
+
+.c-g {
+  color: #666;
+  ;
+}
+
+.pointer-image {
+  cursor: pointer;
+}
+
+.span-sold {
+  padding-top: 32px;
+}
+
+.color-title {
+  color: #333333;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.description-separate {
+  padding: 32px 32px;
+}
+
+.description-separate-left {
+  padding-bottom: 32px;
+  padding-left: 32px;
+}
+
+.color-description-gray {
+  color: #999999
+}
+
+.button-buy {
+  background: #3483FA;
+}
+
+.format-img-meracado-libre {
+  height: 38px;
+}
+
+.p-search {
+  padding: 7px;
 }
